@@ -1,6 +1,6 @@
 # Case83_RecyclerView
  
- Pure Android. Mainly ListView. No other 3-rd party plugins. 
+ Pure Android. Minimal complete RecylerView case. No other 3-rd party plugins. 
  
 Environment: 
 - Android Studio 4.1.3. 
